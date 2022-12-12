@@ -1,0 +1,1363 @@
+# depslib dependency file v1.0
+1667667683 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+
+1667574706 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\empresas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"empresas.h"
+	"estilo.h"
+	"residuos.h"
+	"validaciones.h"
+
+1667324374 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\estilo.h
+
+1667510686 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\empresas.h
+
+1666379330 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\fecha.h
+
+1667256176 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\residuos.h
+
+1666744202 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\validaciones.h
+
+1667530551 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\estilo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+
+1667516975 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1667338038 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\residuos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"residuos.h"
+
+1667509034 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"fecha.h"
+
+1667515623 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\preguntasfrecuentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"preguntasFrecuentes.h"
+
+1667515623 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\preguntasfrecuentes.h
+
+1667529811 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\residuosempresa.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+
+1667528197 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\residuosempresa.h
+
+1667595158 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\noticias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"noticias.h"
+	"fecha.h"
+
+1667535352 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\noticias.h
+	"fecha.h"
+
+1667667700 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\menus.h
+	"preguntasFrecuentes.h"
+	"noticias.h"
+	"empresas.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+
+1667668145 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+	"preguntasFrecuentes.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"pthread.h"
+
+1667509930 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\ciudadado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"Ciudadado.h"
+	"fecha.h"
+
+1667509905 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\nueva version\ciudadado.h
+
+1668364180 source:c:\users\ruth\downloads\nueva version\ciudadado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"Ciudadado.h"
+	"fecha.h"
+
+1667324374 c:\users\ruth\downloads\nueva version\estilo.h
+
+1668364180 c:\users\ruth\downloads\nueva version\ciudadado.h
+	"fecha.h"
+
+1666379330 c:\users\ruth\downloads\nueva version\fecha.h
+
+1668457413 source:c:\users\ruth\downloads\nueva version\empresas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"empresas.h"
+	"estilo.h"
+	"residuos.h"
+	"validaciones.h"
+
+1668439488 c:\users\ruth\downloads\nueva version\empresas.h
+
+1668436058 c:\users\ruth\downloads\nueva version\residuos.h
+
+1668205448 c:\users\ruth\downloads\nueva version\validaciones.h
+
+1667530552 source:c:\users\ruth\downloads\nueva version\estilo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+
+1667516976 source:c:\users\ruth\downloads\nueva version\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1668439965 source:c:\users\ruth\downloads\nueva version\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ciudadado.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+
+1668459957 c:\users\ruth\downloads\nueva version\menus.h
+	"preguntasFrecuentes.h"
+	"noticias.h"
+	"empresas.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+
+1667515624 c:\users\ruth\downloads\nueva version\preguntasfrecuentes.h
+
+1667535354 c:\users\ruth\downloads\nueva version\noticias.h
+	"fecha.h"
+
+1667528198 c:\users\ruth\downloads\nueva version\residuosempresa.h
+
+1668460463 source:c:\users\ruth\downloads\nueva version\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+	"preguntasFrecuentes.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+	"pthread.h"
+
+1667595160 source:c:\users\ruth\downloads\nueva version\noticias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"noticias.h"
+	"fecha.h"
+
+1667515624 source:c:\users\ruth\downloads\nueva version\preguntasfrecuentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"preguntasFrecuentes.h"
+
+1668436262 source:c:\users\ruth\downloads\nueva version\residuos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"residuos.h"
+
+1667529812 source:c:\users\ruth\downloads\nueva version\residuosempresa.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+
+1668205448 source:c:\users\ruth\downloads\nueva version\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"fecha.h"
+
+1668430053 c:\users\ruth\downloads\nueva version\transacciones.h
+
+1668430235 source:c:\users\ruth\downloads\nueva version\transacciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"Transacciones.h"
+	"Ciudadado.h"
+	"residuos.h"
+	"empresas.h"
+
+1668462517 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\ciudadado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"Ciudadado.h"
+	"fecha.h"
+	"validaciones.h"
+
+1668461951 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\estilo.h
+
+1668462359 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\ciudadado.h
+	"fecha.h"
+
+1668461951 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\fecha.h
+
+1668466798 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\empresas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"empresas.h"
+	"estilo.h"
+	"residuos.h"
+	"validaciones.h"
+
+1668470894 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\empresas.h
+
+1668462778 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\residuos.h
+
+1668461952 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\validaciones.h
+
+1668461951 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\estilo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+
+1668461951 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1668461951 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ciudadado.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+
+1668470911 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\menus.h
+	"preguntasFrecuentes.h"
+	"noticias.h"
+	"empresas.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+
+1668462014 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\preguntasfrecuentes.h
+
+1668462745 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\noticias.h
+	"fecha.h"
+
+1668462345 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\residuosempresa.h
+
+1668462345 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\transacciones.h
+
+1668473749 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+	"preguntasFrecuentes.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+	"pthread.h"
+
+1668473602 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\noticias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"noticias.h"
+	"fecha.h"
+
+1668461952 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\preguntasfrecuentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"preguntasFrecuentes.h"
+
+1668461952 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\residuos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"residuos.h"
+
+1668472397 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\residuosempresa.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+
+1668461952 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\transacciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"Transacciones.h"
+	"Ciudadado.h"
+	"residuos.h"
+	"empresas.h"
+
+1668461952 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\14 - 11\nueva version1411\nueva version\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"fecha.h"
+
+1668631113 source:c:\users\ruth\downloads\22.11 22hs\nueva version\ciudadado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"Ciudadado.h"
+	"fecha.h"
+	"validaciones.h"
+
+1668461952 c:\users\ruth\downloads\22.11 22hs\nueva version\estilo.h
+
+1668630563 c:\users\ruth\downloads\22.11 22hs\nueva version\ciudadado.h
+	"fecha.h"
+
+1668461952 c:\users\ruth\downloads\22.11 22hs\nueva version\fecha.h
+
+1668461954 c:\users\ruth\downloads\22.11 22hs\nueva version\validaciones.h
+
+1668466800 source:c:\users\ruth\downloads\22.11 22hs\nueva version\empresas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"empresas.h"
+	"estilo.h"
+	"residuos.h"
+	"validaciones.h"
+
+1668470896 c:\users\ruth\downloads\22.11 22hs\nueva version\empresas.h
+
+1668462780 c:\users\ruth\downloads\22.11 22hs\nueva version\residuos.h
+
+1668461952 source:c:\users\ruth\downloads\22.11 22hs\nueva version\estilo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+
+1668461952 source:c:\users\ruth\downloads\22.11 22hs\nueva version\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1668555135 source:c:\users\ruth\downloads\22.11 22hs\nueva version\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ciudadado.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+
+1668637474 c:\users\ruth\downloads\22.11 22hs\nueva version\menus.h
+	"preguntasFrecuentes.h"
+	"noticias.h"
+	"empresas.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+
+1668462016 c:\users\ruth\downloads\22.11 22hs\nueva version\preguntasfrecuentes.h
+
+1668462746 c:\users\ruth\downloads\22.11 22hs\nueva version\noticias.h
+	"fecha.h"
+
+1668462346 c:\users\ruth\downloads\22.11 22hs\nueva version\residuosempresa.h
+
+1668636028 c:\users\ruth\downloads\22.11 22hs\nueva version\transacciones.h
+
+1668641336 source:c:\users\ruth\downloads\22.11 22hs\nueva version\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+	"preguntasFrecuentes.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+	"pthread.h"
+
+1668473604 source:c:\users\ruth\downloads\22.11 22hs\nueva version\noticias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"noticias.h"
+	"fecha.h"
+
+1668461954 source:c:\users\ruth\downloads\22.11 22hs\nueva version\preguntasfrecuentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"preguntasFrecuentes.h"
+
+1668461954 source:c:\users\ruth\downloads\22.11 22hs\nueva version\residuos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"residuos.h"
+
+1668472398 source:c:\users\ruth\downloads\22.11 22hs\nueva version\residuosempresa.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+
+1668636028 source:c:\users\ruth\downloads\22.11 22hs\nueva version\transacciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"Transacciones.h"
+	"Ciudadado.h"
+	"residuos.h"
+	"empresas.h"
+
+1668461954 source:c:\users\ruth\downloads\22.11 22hs\nueva version\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"fecha.h"
+
+1668641473 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\ciudadado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"Ciudadado.h"
+	"fecha.h"
+	"validaciones.h"
+
+1668461952 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\estilo.h
+
+1668630563 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\ciudadado.h
+	"fecha.h"
+
+1668461952 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\fecha.h
+
+1668461954 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\validaciones.h
+
+1668724199 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\empresas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"empresas.h"
+	"estilo.h"
+	"residuos.h"
+	"validaciones.h"
+
+1668470896 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\empresas.h
+
+1668717998 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\residuos.h
+
+1668461952 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\estilo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+
+1668461952 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1668555135 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ciudadado.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+
+1668713511 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\menus.h
+	"preguntasFrecuentes.h"
+	"noticias.h"
+	"empresas.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+
+1668462016 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\preguntasfrecuentes.h
+
+1668462746 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\noticias.h
+	"fecha.h"
+
+1668462346 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\residuosempresa.h
+
+1668636028 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\transacciones.h
+
+1668716421 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\preguntasfrecuentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"preguntasFrecuentes.h"
+
+1668719264 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\residuos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"residuos.h"
+	"estilo.h"
+
+1668718070 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\residuosempresa.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+
+1668636028 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\transacciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"Transacciones.h"
+	"Ciudadado.h"
+	"residuos.h"
+	"empresas.h"
+
+1668461954 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"fecha.h"
+
+1668716748 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\noticias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"noticias.h"
+	"fecha.h"
+
+1668722875 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\nueva version ver 17-11 9\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+	"preguntasFrecuentes.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+	"pthread.h"
+
+1668784979 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\ciudadado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"Ciudadado.h"
+	"fecha.h"
+	"validaciones.h"
+	"menus.h"
+
+1668461952 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\estilo.h
+
+1668630563 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\ciudadado.h
+	"fecha.h"
+
+1668461952 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\fecha.h
+
+1668461954 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\validaciones.h
+
+1668799069 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\empresas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"empresas.h"
+	"estilo.h"
+	"residuos.h"
+	"validaciones.h"
+	"Transacciones.h"
+
+1668799069 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\empresas.h
+
+1668791128 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\residuos.h
+
+1668461952 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\estilo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+
+1668461952 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1668791686 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ciudadado.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+
+1668799069 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\menus.h
+	"preguntasFrecuentes.h"
+	"noticias.h"
+	"empresas.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+
+1668462016 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\preguntasfrecuentes.h
+
+1668462746 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\noticias.h
+	"fecha.h"
+
+1668462346 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\residuosempresa.h
+
+1668799125 c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\transacciones.h
+	"fecha.h"
+
+1668800146 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+	"preguntasFrecuentes.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+	"pthread.h"
+
+1668789918 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\noticias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"noticias.h"
+	"fecha.h"
+	"menus.h"
+
+1668790278 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\preguntasfrecuentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"preguntasFrecuentes.h"
+	"menus.h"
+
+1668796026 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\residuos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"residuos.h"
+	"estilo.h"
+	"menus.h"
+
+1668799069 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\residuosempresa.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+
+1668793984 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\transacciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"Transacciones.h"
+	"Ciudadado.h"
+	"residuos.h"
+	"empresas.h"
+
+1668793984 source:c:\users\angel\onedrive\2° cuatrimestre\programación y laboratorio de computación ii\tp final\ultimaaaaaaa\version 17-11 19.30\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"fecha.h"
+
+1669074475 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\ciudadado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"Ciudadado.h"
+	"fecha.h"
+	"validaciones.h"
+	"menus.h"
+
+1668461952 c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\estilo.h
+
+1669059014 c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\ciudadado.h
+	"fecha.h"
+
+1668461952 c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\fecha.h
+
+1668461954 c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\validaciones.h
+
+1668799070 c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\menus.h
+	"preguntasFrecuentes.h"
+	"noticias.h"
+	"empresas.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+
+1668462016 c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\preguntasfrecuentes.h
+
+1668462746 c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\noticias.h
+	"fecha.h"
+
+1669074475 c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\empresas.h
+
+1668791130 c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\residuos.h
+
+1668462346 c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\residuosempresa.h
+
+1668799126 c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\transacciones.h
+	"fecha.h"
+
+1669077789 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\empresas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"empresas.h"
+	"estilo.h"
+	"residuos.h"
+	"validaciones.h"
+	"Transacciones.h"
+
+1668461952 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\estilo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+
+1668461952 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1669068991 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ciudadado.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+
+1669079727 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+	"preguntasFrecuentes.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+	"pthread.h"
+
+1669062106 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\noticias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"noticias.h"
+	"fecha.h"
+	"menus.h"
+
+1668790280 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\preguntasfrecuentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"preguntasFrecuentes.h"
+	"menus.h"
+
+1669079933 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\residuos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"residuos.h"
+	"estilo.h"
+	"menus.h"
+
+1669078664 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\residuosempresa.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"estilo.h"
+
+1669044171 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\transacciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"Transacciones.h"
+	"Ciudadado.h"
+	"residuos.h"
+	"empresas.h"
+
+1668793986 source:c:\users\ruth\downloads\version 18-11 16.40\version 17-11 19.30\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"fecha.h"
+
+1669148294 source:c:\users\angel\desktop\version 21-11 14hs\ciudadado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"Ciudadado.h"
+	"fecha.h"
+	"validaciones.h"
+	"menus.h"
+
+1669144301 c:\users\angel\desktop\version 21-11 14hs\estilo.h
+
+1669147468 c:\users\angel\desktop\version 21-11 14hs\ciudadado.h
+	"fecha.h"
+
+1668461952 c:\users\angel\desktop\version 21-11 14hs\fecha.h
+
+1668461954 c:\users\angel\desktop\version 21-11 14hs\validaciones.h
+
+1669148255 c:\users\angel\desktop\version 21-11 14hs\menus.h
+	"preguntasFrecuentes.h"
+	"noticias.h"
+	"empresas.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+
+1668462016 c:\users\angel\desktop\version 21-11 14hs\preguntasfrecuentes.h
+
+1669146962 c:\users\angel\desktop\version 21-11 14hs\noticias.h
+	"fecha.h"
+
+1669147347 c:\users\angel\desktop\version 21-11 14hs\empresas.h
+
+1669147257 c:\users\angel\desktop\version 21-11 14hs\residuos.h
+
+1668462346 c:\users\angel\desktop\version 21-11 14hs\residuosempresa.h
+
+1669146830 c:\users\angel\desktop\version 21-11 14hs\transacciones.h
+	"fecha.h"
+	"residuos.h"
+
+1669147347 source:c:\users\angel\desktop\version 21-11 14hs\empresas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"empresas.h"
+	"estilo.h"
+	"residuos.h"
+	"validaciones.h"
+	"Transacciones.h"
+
+1669148084 source:c:\users\angel\desktop\version 21-11 14hs\estilo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+
+1668461952 source:c:\users\angel\desktop\version 21-11 14hs\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1669146229 source:c:\users\angel\desktop\version 21-11 14hs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ciudadado.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+
+1669148070 source:c:\users\angel\desktop\version 21-11 14hs\noticias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"noticias.h"
+	"fecha.h"
+	"menus.h"
+
+1668790280 source:c:\users\angel\desktop\version 21-11 14hs\preguntasfrecuentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"preguntasFrecuentes.h"
+	"menus.h"
+
+1669147257 source:c:\users\angel\desktop\version 21-11 14hs\residuos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"residuos.h"
+	"estilo.h"
+	"menus.h"
+
+1669078664 source:c:\users\angel\desktop\version 21-11 14hs\residuosempresa.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"estilo.h"
+
+1668793986 source:c:\users\angel\desktop\version 21-11 14hs\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"fecha.h"
+
+1669148255 source:c:\users\angel\desktop\version 21-11 14hs\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+	"preguntasFrecuentes.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+	"pthread.h"
+
+1669146830 source:c:\users\angel\desktop\version 21-11 14hs\transacciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"Transacciones.h"
+	"Ciudadado.h"
+	"residuos.h"
+	"empresas.h"
+
+1669158814 source:c:\users\angel\desktop\version 22-11 17hs\ciudadado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"Ciudadado.h"
+	"fecha.h"
+	"validaciones.h"
+	"menus.h"
+
+1669144301 c:\users\angel\desktop\version 22-11 17hs\estilo.h
+
+1669147468 c:\users\angel\desktop\version 22-11 17hs\ciudadado.h
+	"fecha.h"
+
+1668461952 c:\users\angel\desktop\version 22-11 17hs\fecha.h
+
+1668461954 c:\users\angel\desktop\version 22-11 17hs\validaciones.h
+
+1669148255 c:\users\angel\desktop\version 22-11 17hs\menus.h
+	"preguntasFrecuentes.h"
+	"noticias.h"
+	"empresas.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+
+1668462016 c:\users\angel\desktop\version 22-11 17hs\preguntasfrecuentes.h
+
+1669146962 c:\users\angel\desktop\version 22-11 17hs\noticias.h
+	"fecha.h"
+
+1669149386 c:\users\angel\desktop\version 22-11 17hs\empresas.h
+
+1669147257 c:\users\angel\desktop\version 22-11 17hs\residuos.h
+
+1668462346 c:\users\angel\desktop\version 22-11 17hs\residuosempresa.h
+
+1669146830 c:\users\angel\desktop\version 22-11 17hs\transacciones.h
+	"fecha.h"
+	"residuos.h"
+
+1669149472 source:c:\users\angel\desktop\version 22-11 17hs\empresas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"empresas.h"
+	"estilo.h"
+	"residuos.h"
+	"validaciones.h"
+	"Transacciones.h"
+
+1669148084 source:c:\users\angel\desktop\version 22-11 17hs\estilo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+
+1668461952 source:c:\users\angel\desktop\version 22-11 17hs\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1669158376 source:c:\users\angel\desktop\version 22-11 17hs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ciudadado.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+	"estilo.h"
+
+1669158967 source:c:\users\angel\desktop\version 22-11 17hs\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"menus.h"
+	"empresas.h"
+	"noticias.h"
+	"preguntasFrecuentes.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"Transacciones.h"
+	"pthread.h"
+
+1669148070 source:c:\users\angel\desktop\version 22-11 17hs\noticias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"noticias.h"
+	"fecha.h"
+	"menus.h"
+
+1668790280 source:c:\users\angel\desktop\version 22-11 17hs\preguntasfrecuentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"preguntasFrecuentes.h"
+	"menus.h"
+
+1669147257 source:c:\users\angel\desktop\version 22-11 17hs\residuos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"residuos.h"
+	"estilo.h"
+	"menus.h"
+
+1669078664 source:c:\users\angel\desktop\version 22-11 17hs\residuosempresa.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"residuos.h"
+	"residuosEmpresa.h"
+	"Ciudadado.h"
+	"estilo.h"
+
+1669146830 source:c:\users\angel\desktop\version 22-11 17hs\transacciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estilo.h"
+	"fecha.h"
+	"Transacciones.h"
+	"Ciudadado.h"
+	"residuos.h"
+	"empresas.h"
+
+1668793986 source:c:\users\angel\desktop\version 22-11 17hs\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"fecha.h"
+
